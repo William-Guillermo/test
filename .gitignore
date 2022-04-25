@@ -1,0 +1,7 @@
+/backend/.gitignore
+/backend/.env
+/test/backend/test.db
+/test/backend/pyvenv.cfg
+/backend//Include
+/backend//Lib
+/backend//Scripts
